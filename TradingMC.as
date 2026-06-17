@@ -1,5 +1,5 @@
 ﻿{
-  "version":"1",
+  "version":"2",
   "version_beta":"1",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_TradingMC/releases/download/TradingMC/TradingMC_exe.zip",
